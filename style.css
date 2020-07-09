@@ -1,0 +1,25 @@
+/*
+Theme Name: PVT
+Theme URI: 
+Author: 
+Author URI: 
+Description:
+Version: 2020.1
+License: GNU General Public License
+License URI: https://www.gnu.org/licenses/gpl.html
+Tags: 
+*/
+
+.preloader:after {
+    content: "carregando.." !important;
+    left: calc(50vw - 20px) !important;
+}
+.login_logo{
+	width: 180px;
+}
+.sidebar_logo{
+	width: 200px;
+}
+.cadastro_logo{
+	width: 200px;
+}
